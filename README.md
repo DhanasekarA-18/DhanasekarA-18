@@ -1,18 +1,11 @@
- ![octocat](https://user-images.githubusercontent.com/83594375/200131287-45a4780b-a2fd-44c9-8fd1-eed853340509.png) <b> hi there ![Uploading 147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif…]()
-</b>Hi there
-![image](https://user-images.githubusercontent.com/83594375/200131424-57ff8b17-6180-4dd3-959d-ab52e246847f.png)
+ <b > :octocat: Hi There  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" alt="hi" width="20" height="20"/> </b> <br/>
+---
+🦾 𝑰'𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅-𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💻 | 𝑻𝑬𝑪𝑯𝑵𝑶𝑷𝑯𝑰𝑳𝑬👨🏻‍💻 |  𝑺𝑰𝑬𝑻𝒂𝒏 🎓 | 𝑩𝒆 𝒕𝒉𝒆 𝑪𝒉𝒂𝒏𝒈𝒆 ❤️👍 <br/>
+---
+- 🔭 I’m currently working on a project in VakilSearch
+- 🌱 I’m currently learning Next Js
 
-<!--
-**DhanasekarA-18/DhanasekarA-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 𝙴𝚗𝚓𝚘𝚢𝚒𝚗𝚐 😘
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
