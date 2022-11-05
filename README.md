@@ -1,4 +1,5 @@
-### 👋![octocat](https://user-images.githubusercontent.com/83594375/200131287-45a4780b-a2fd-44c9-8fd1-eed853340509.png) Hi there
+ ![octocat](https://user-images.githubusercontent.com/83594375/200131287-45a4780b-a2fd-44c9-8fd1-eed853340509.png) <b> hi there ![Uploading 147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif…]()
+</b>
 
 <!--
 **DhanasekarA-18/DhanasekarA-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
