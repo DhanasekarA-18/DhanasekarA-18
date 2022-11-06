@@ -2,10 +2,15 @@
 ---
 🦾 𝑰'𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅-𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💻 | 𝑻𝑬𝑪𝑯𝑵𝑶𝑷𝑯𝑰𝑳𝑬👨🏻‍💻 |  𝑺𝑰𝑬𝑻𝒂𝒏 🎓 | 𝑩𝒆 𝒕𝒉𝒆 𝑪𝒉𝒂𝒏𝒈𝒆 ❤️👍 <br/>
 ---
-- 🔭 I’m currently working on a project in VakilSearch
+- 🔭 I’m currently working on a project in <a href="https://vakilsearch.com/">VakilSearch</a>
 - 🌱 I’m currently learning Next Js
-
 ---
-𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 𝙴𝚗𝚓𝚘𝚢𝚒𝚗𝚐 😘
+☕ Wanna Chat?
+- LinkedIn : <a href="https://www.linkedin.com/in/dhanasekar-a-07a08a1a8/">https://www.linkedin.com/in/dhanasekar-a-07a08a1a8/</a>
+---
+### 🗡️  My Portfolio Website <br/>
+   - <a href="https://ds-portfolio-six.vercel.app/"> 👉Checkout here</a>
+---
+## 𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 ℜ𝔬𝔠𝔨𝔦𝔫𝔤 🚀
 
 
