@@ -4,13 +4,13 @@
  KARURian 😍 <br/>
 ---
 - 🔭 I’m currently working on a project in <a href="https://vakilsearch.com/">VakilSearch</a>
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning <b>Next Js</b>
 ---
 ## ☕ Wanna Chat?
 - LinkedIn : <a href="https://www.linkedin.com/in/dhanasekar-a-07a08a1a8/">https://www.linkedin.com/in/dhanasekar-a-07a08a1a8/</a>
 ---
 ## 🗡️ My Portfolio Website <br/>
-   - <a href="https://ds-portfolio-six.vercel.app/"> 👉Checkout here</a>
+   - <a href="https://ds-portfolio-six.vercel.app/"> 👉 Checkout Here</a>
 ---
 ## 𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 ℜ𝔬𝔠𝔨𝔦𝔫𝔤 🚀
 
