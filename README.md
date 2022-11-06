@@ -12,6 +12,8 @@
 ## 🗡️ My Portfolio Website <br/>
    - <a href="https://ds-portfolio-six.vercel.app/"> 👉 Checkout Here</a>
 ---
-## 𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 ℜ𝔬𝔠𝔨𝔦𝔫𝔤 🚀
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.
+---
+## 🤩 𝙷𝚊𝚙𝚙𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 🔥 𝙺𝚎𝚎𝚙 ℜ𝔬𝔠𝔨𝔦𝔫𝔤 🚀
 
 
